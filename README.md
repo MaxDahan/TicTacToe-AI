@@ -1,2 +1,3 @@
 # TicTacToe-AI
-This is a TicTacToe game where you can play against 3 difficulties of an AI or against a friend.
+
+To run TicTacToe AI just download the jar and double click it.
